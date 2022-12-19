@@ -19,7 +19,7 @@ PensionFi : https://testnet.ftmscan.com/address/0x60cf847c6ea49009ae290f749451f4
 
 Profile :https://testnet.ftmscan.com/address/0xe078fe7A93017F8e18c1C52E79632d0B94c56c26
 
-## Aave Contracts Address Deployed on Mumbai
+## Aave Contracts Address Deployed on Fantom Testnet
 WETH Gateway : https://testnet.ftmscan.com/address/0x87770f04Bbece8092d777860907798138825f303
 
 Pool-Proxy-Fantom : https://testnet.ftmscan.com/address/0x771A45a19cE333a19356694C5fc80c76fe9bc741
@@ -32,9 +32,9 @@ Frontend: vite, postcss, tailwindcss,
 web3 technologies: IPFS/filecoin, Moralis Wallet
 Backend: Solidity, Node.js
 
-Live URL - https://pension-fi.vercel.app/
+Live URL - https://pensionfi-ftm.vercel.app/
 
-Youtube Video: https://youtu.be/JVFWkU5MBiU
+Youtube Video: https://youtu.be/4ILUcBgunEA
 
 E-mail - holyaustin@yahoo.com
 

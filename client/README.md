@@ -32,9 +32,9 @@ Frontend: vite, postcss, tailwindcss,
 web3 technologies: IPFS/filecoin, Moralis Wallet
 Backend: Solidity, Node.js
 
-Live URL - https://pension-fi.vercel.app/
+Live URL - https://pensionfi-ftm.vercel.app/
 
-Youtube Video: https://youtu.be/JVFWkU5MBiU
+Youtube Video: https://youtu.be/4ILUcBgunEA
 
 E-mail - holyaustin@yahoo.com
 

@@ -39,23 +39,23 @@ const StakeTable = ({assets, withdraw}) => {
                         return (
                           <tr className="bg-neutral-700 border-b border-neutral-400">
                             <td className="py-4 px-6">
-                                MATIC
+                                FTM
                             </td>
                             <td className="py-4 px-6">
                                 {asset.percentInterest}%
                             </td>
                             <td className="py-4 px-6">
-                                {asset.etherStaked} MATIC
+                                {asset.etherStaked} FTM
                             </td>
                             <td className="py-4 px-6">
-                                {asset.etherInterest} MATIC
+                                {asset.etherInterest} FTM
                             </td>
                             <td className="py-4 px-6">
                                 {asset.daysRemaining} days
                             </td>
                             <td className="py-4 px-6">
                               {asset.open ? (
-                                <button onClick={() => withdraw(asset.positionId)} className="mt-4 bg-fuchsia-200 opacity-75 py-1 px-4 text-lg text-gray-900 font-semibold hover:font-bold hover:outline-2 transition-all duration-200">Withdraw</button>
+                                <button onClick={() => withdraw(asset.positionId)} className="mt-4 bg-fuchsia-200 opacity-75 py-1 px-4 text-lg text-white font-semibold hover:font-bold hover:outline-2 transition-all duration-200">Withdraw</button>
                               ) : (
                                 <span>Closed</span>
                               )}
